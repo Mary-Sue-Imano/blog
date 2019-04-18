@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mary-Sue Imano</title>
+    <link>https://mary-sue-imano.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Mary-Sue Imano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2019 09:32:45 -0400</lastBuildDate>
+    
+	<atom:link href="https://mary-sue-imano.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog</title>
+      <link>https://mary-sue-imano.github.io/blog/tags/blog/</link>
+      <pubDate>Wed, 17 Apr 2019 09:32:45 -0400</pubDate>
+      
+      <guid>https://mary-sue-imano.github.io/blog/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fail upwards</title>
+      <link>https://mary-sue-imano.github.io/blog/tags/fail-upwards/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mary-sue-imano.github.io/blog/tags/fail-upwards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>series</title>
+      <link>https://mary-sue-imano.github.io/blog/tags/series/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mary-sue-imano.github.io/blog/tags/series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://mary-sue-imano.github.io/blog/tags/tutorial/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mary-sue-imano.github.io/blog/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

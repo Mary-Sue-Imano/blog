@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Mary-Sue Imano</title>
+    <link>https://mary-sue-imano.github.io/blog/tutorial/</link>
+    <description>Recent content in Tutorials on Mary-Sue Imano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mary-sue-imano.github.io/blog/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Magic Think</title>
+      <link>https://mary-sue-imano.github.io/blog/tutorial/magic-think/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mary-sue-imano.github.io/blog/tutorial/magic-think/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquet molestie mauris nec tempor. Sed non lacus massa. Aliquam ut convallis velit. Etiam dictum mollis mi, a vestibulum ex suscipit ut. Proin viverra lacinia urna at interdum. Sed eu quam sit amet metus fermentum pharetra id a sem. Pellentesque lorem dolor, venenatis sed felis non, fringilla ornare felis. Donec nisi lorem, dignissim id interdum vel, cursus malesuada quam. Integer tempus consectetur tellus, nec sagittis est mattis vel.</description>
+    </item>
+    
+    <item>
+      <title>Ponzi Promise Pyramid</title>
+      <link>https://mary-sue-imano.github.io/blog/tutorial/ponzi-promise-pyramid/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mary-sue-imano.github.io/blog/tutorial/ponzi-promise-pyramid/</guid>
+      <description>Check out a master&amp;hellip;
+  &amp;hellip; promises are just like cash, only way more valuable. If there&amp;rsquo;s one thing the boss loves, it&amp;rsquo;s the smell of new money - or &amp;ldquo;opportunity&amp;rdquo; as he cutely says. Darlings, providence from heaven, I swear.</description>
+    </item>
+    
+  </channel>
+</rss>
